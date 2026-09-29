@@ -42,7 +42,7 @@ Nesta primeira versão, a solução terá caráter descritivo e analítico, sem 
 **Desafio:** Previsão de demanda para pequenos negócios
 
 **Link do desafio:**  
-`INSERIR LINK DO DESAFIO CORETO`
+`https://coreto.app.emprel.gov.br/banco-de-bo/previsao-de-demanda-para-pequenos-negocios`
 
 Embora o desafio contemple previsão de demanda, a primeira versão do projeto será focada na estruturação dos dados e na análise histórica das vendas, criando uma base confiável para futuras evoluções da solução.
 
